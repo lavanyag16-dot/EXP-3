@@ -20,13 +20,14 @@ Quantity
 7	Round block	-	1 No.
 
 
-Theory:
+## Theory:
 •	A two way switch is installed near the first step of the stairs. The other two way switch is installed at the upper part where the stair ends.
 •	The light point is provided between first and last stair at an adequate location and height if the light is switched on by the lower switch. It can be switched off by the switch at the top or vice versa.
 •	The circuit can be used at the places like bed room where the person may  not  have  to  travel for switching off the light to the place from where the light is switched on.
 •	Two  numbers  of  two-way  switches  are  used  for  the  purpose.  The supply is given to the switch at the short circuited terminals.
 •	The  connection  to  the  light  point  is  taken  from  the  similar  short circuited  terminal  of  the   second  switch.   Order  two  independent terminals of each circuit are connected through  cables 
-PROCEDURE
+
+## PROCEDURE
 •  Place the accessories on the wiring board as per the circuit diagram.
 •  Place the P.V.C pipe and insert two wires into the P.V.C pipe.
 •	Take one wire connect one end to the phase side and other end to the middle point of SPDT switch 1
@@ -39,17 +40,21 @@ switch2.
 •  Circuit is tested for all possible combination of switch positions.
 
 
-Direct connection: CIRCUIT DIAGRAM: 
+## Direct connection: CIRCUIT DIAGRAM: 
 <img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/5029cf52-db5c-4b14-9b68-1926e04e3d63" />
 
-Tabulation:1
+<img width="839" height="405" alt="image" src="https://github.com/user-attachments/assets/76fdf6f5-3080-4a2b-9657-974180fa840a" />
+
+## Tabulation:1
 	<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/75d4c3d1-7786-4477-b82c-95dbbcaae1fb" />
 
-Cross connection: CIRCUIT DIAGRAM:
+## Cross connection: CIRCUIT DIAGRAM:
 <img width="1599" height="1042" alt="image" src="https://github.com/user-attachments/assets/23afbb32-bb91-4a04-900e-984fcb65d6dd" />
 
-Tabulation:2
+<img width="852" height="409" alt="image" src="https://github.com/user-attachments/assets/5723bce5-a947-41a3-a2ac-f34002c7dc27" />
+
+## Tabulation:2
 <img width="1600" height="1093" alt="image" src="https://github.com/user-attachments/assets/99f69e44-c2bc-4157-a21e-8b9b12e78466" />
 
-RESULT:
+## RESULT:
 Thus the staircase wiring is connected and tested.
